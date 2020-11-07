@@ -1,2 +1,3 @@
 # Hate Speech Detection in IBM-Cloud
  
+In the modern age of social media, many people face problem of cyber-bullying especially in tweets, Facebook posts and comments. This is a very serious issue these days. So, with the help of big data analytics and machine learning algorithms we developed a system on IBM Cloud to check whether a text in comment, tweet or post posted on social media contains positive or negative content. We used Wikipedia-Talk corpus dataset in our project. We created a data warehouse we can efficiently store this data and we also preformed sentiment analysis to see if a comment contain positivity or negativity. We also trained an SVC model to detect hated comments with 94% precision
